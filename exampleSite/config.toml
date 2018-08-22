@@ -37,6 +37,7 @@ linkedin = "ribice"
 facebook = "ribice"
 instagram = ""
 codepen = ""
+mastodon = "ribice"
 
 [params.matomoAnalytics]
 siteID = 1
